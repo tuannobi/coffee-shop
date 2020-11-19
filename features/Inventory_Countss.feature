@@ -9,6 +9,6 @@ Feature: Inventory Counts
     
     Examples:
       | number | count |
-      | 3      |  5    |
+      | 7      |  5    |
     
     
